@@ -4450,6 +4450,8 @@
     .locals 3
 
     const/4 v0, 0x0
+    
+    return-object v0
 
     const/4 v1, 0x6
 
